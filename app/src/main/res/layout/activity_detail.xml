@@ -86,12 +86,7 @@
                     android:layout_height="match_parent"
 
                     android:name="com.google.android.gms.maps.MapFragment"
-
-                    map:uiRotateGestures="false"
-                    map:uiScrollGestures="false"
-                    map:uiTiltGestures="false"
-                    map:uiZoomControls="false"
-                    map:uiZoomGestures="false" />
+ />
 
             </FrameLayout>
 
